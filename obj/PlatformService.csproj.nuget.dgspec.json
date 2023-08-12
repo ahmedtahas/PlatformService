@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ahmed\\OneDrive\\Masaüstü\\Code\\C#\\PlatformService\\PlatformService.csproj": {}
+    "C:\\Users\\ahmed\\OneDrive\\Masaüstü\\Code\\C#\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ahmed\\OneDrive\\Masaüstü\\Code\\C#\\PlatformService\\PlatformService.csproj": {
+    "C:\\Users\\ahmed\\OneDrive\\Masaüstü\\Code\\C#\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ahmed\\OneDrive\\Masaüstü\\Code\\C#\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "C:\\Users\\ahmed\\OneDrive\\Masaüstü\\Code\\C#\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "c:\\Users\\ahmed\\OneDrive\\Masaüstü\\Code\\C#\\PlatformService\\PlatformService.csproj",
+        "projectPath": "C:\\Users\\ahmed\\OneDrive\\Masaüstü\\Code\\C#\\PlatformService\\PlatformService.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ahmed\\OneDrive\\Masaüstü\\Code\\C#\\PlatformService\\obj\\",
+        "outputPath": "C:\\Users\\ahmed\\OneDrive\\Masaüstü\\Code\\C#\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config"
